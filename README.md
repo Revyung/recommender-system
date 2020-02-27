@@ -1,1 +1,1 @@
-This is a detailed experiment of collaborative filtering in classical matrix factorization and of breakthroughs in deep learning, benchmarked on the MovieLens dataset
+This is a detailed pytorch implementation of collaborative filtering in neural networks benchmarked on the MovieLens dataset. In addition, it will discuss the latest advancement in methodology in particular, how deep learning can be utilized to aid learning user-item interaction function.
